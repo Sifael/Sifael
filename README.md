@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+I'm Sifael. I'm currently working at the intersection of Data Engineering, Machine Learning and Healthcare Applications. 
+
+- 🔭 I’m currently completing a Masters Thesis at Roche Diagnostics in München, Germany.
+- 🌱 I’m currently learning Probabilistic Machine Learning for Causal Inference.
+- 📫 How to reach me: https://www.linkedin.com/in/sifael-ndandala-b9004859/
+
 <!--
 **Sifael/Sifael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
