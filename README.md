@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm Sifael. I'm currently working at the intersection of Data Engineering, Machine Learning and Healthcare Applications. 
+I'm Sifael. 
+I work at the intersection of Data Engineering, Machine Learning and Healthcare Applications. 
 
 - 🔭 I’m currently completing a Masters Thesis at Roche Diagnostics in München, Germany.
 - 🌱 I’m currently learning Probabilistic Machine Learning for Causal Inference.
